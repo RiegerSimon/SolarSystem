@@ -1,0 +1,2 @@
+# SolarSystem
+SPM GITHUB übung
