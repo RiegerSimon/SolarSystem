@@ -1,1 +1,6 @@
-Merkur VenusSonne
+Merkur 
+Venus
+Erde
+Mars
+Jupiter
+Sonne
